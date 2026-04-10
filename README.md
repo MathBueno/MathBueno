@@ -81,8 +81,7 @@ I follow a **"vibe coding" mindset**:
 ---
 
 ## 📫 Connect with Me
-
-- GitHub: https://github.com/MathBueno  
+ 
 - LinkedIn: https://www.linkedin.com/in/eng-matheusbueno  
 
 ---
