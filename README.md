@@ -82,6 +82,7 @@ I follow a **"vibe coding" mindset**:
 
 ## 📫 Connect with Me
  
-- LinkedIn: https://www.linkedin.com/in/eng-matheusbueno  
+- LinkedIn: https://www.linkedin.com/in/eng-matheusbueno
+- Email: matheus.rdgbn@gmail.com
 
 ---
